@@ -53,7 +53,7 @@ global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/x_maverick_adi
 global.dygp = 'https://chat.whatsapp.com/LFbgCi4dAhJ1mNYBhX1bK4'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
 global.fgyt = 'https://youtube.com/@music-369'
-global.fgpyp = 'https://youtube.com/@music-369'
+global.fgpyp = 'https://youtube.com/@gameromi369'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
