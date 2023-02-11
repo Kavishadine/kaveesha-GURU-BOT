@@ -1,5 +1,5 @@
 { 
-    "name": "GURU",
+    "name": "ADITYA",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -28,7 +28,7 @@
     ],
     "homepage": "https://github.com/Guru322/GURU-BOT-V1",
     "author": {
-        "name": "GURU"
+        "name": "ADITYA"
     },
     "repository": {
         "type": "git",
