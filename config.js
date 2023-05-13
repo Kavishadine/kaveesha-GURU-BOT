@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919634945456', 'ADITYA', true],
+  ['919634945456', 'kaveesha D nimsara', true],
   [false], 
   [''] 
 ] //Number of owners
 
-global.mods = ['919634945456']
-global.prems = ['919634945456']
+global.mods = ['94712351830']
+global.prems = ['942351830']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,8 +47,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝕆𝕄𝕀-𝔹𝕆𝕋-𝟛𝟞𝟡 by 𝔸𝔻𝕀𝕋𝕐𝔸' 
-global.author = '𝔸𝔻𝕀𝕋𝕐𝔸' 
+global.packname = '𝕆𝕄𝕀-𝔹𝕆𝕋-𝟛𝟞𝟡 by kaveesha ' 
+global.author = 'kaveesha' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/x_maverick_aditya_x\n' 
 global.dygp = 'https://chat.whatsapp.com/LFbgCi4dAhJ1mNYBhX1bK4'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
